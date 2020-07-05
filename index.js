@@ -111,5 +111,4 @@ function renderTr(arr) {
     })
     .join("");
 }
-
 document.getElementById("app").innerHTML = renderCases(userCases);
