@@ -51,11 +51,6 @@ const userCases = {
       name: "京东-丰客多", 
       url:
         "https://img10.360buyimg.com/imagetools/jfs/t1/102764/3/17238/19608/5e8545faE20d04854/dd8f64b260302278.png"
-    }, 
-    {
-      name: "京东健康",
-      url:
-        "https://a.app.qq.com/o/image/microQr.png?pkgName=com.jd.jdhealth"
     }
   ]
 };
