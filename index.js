@@ -109,6 +109,6 @@ function renderTr(arr) {
       </tr>
     `;
     })
-    .join(""); 
+    .join("");  
 }
 document.getElementById("app").innerHTML = renderCases(userCases);
