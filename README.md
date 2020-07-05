@@ -2,7 +2,7 @@
 
 使用说明：
 
-[编辑根目录的 index.js 文件](https://github.com/richrd1015/nutui-user-cases/edit/master/index.js)，修改第一行 `userCases` 变量，找到对应平台键值，往数组里添加对象:
+[编辑根目录的 index.js 文件](https://github.com/jdf2e/nutui-user-cases/edit/master/index.js)，修改第一行 `userCases` 变量，找到对应平台键值，往数组里添加对象:
 
 ```
 name: 应用名
