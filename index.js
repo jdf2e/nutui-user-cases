@@ -38,7 +38,7 @@ const userCases = {
       url: "http://img12.360buyimg.com/img/jfs/t1/67481/15/565/28110/5cec9234E71c47244/dc4cf353fd96922e.png"
     },
     {
-      name: "澳际-小希",
+      name: "澳际-小希1",
       url:
         "http://www.aoji.cn/static/images/index/qr-code.gif"
     },
