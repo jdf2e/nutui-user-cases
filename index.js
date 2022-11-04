@@ -1,112 +1,98 @@
 const userCases = {
-  H5: [
-    {
-      name: "在哪买车",
-      url: "https://img12.360buyimg.com/imagetools/jfs/t1/86264/6/17262/14085/5e853fc1E4916dc43/2401d5cc93bc7f5d.png"
-    },
-    {
-      name: "法院-预约系统",
-      url: "https://img10.360buyimg.com/imagetools/jfs/t1/95390/21/17213/8248/5e853ff9Eb7c83c4f/2a489fea19267938.png"
-    },
-  ],
   微信小程序: [
     {
-      name: "京东锦礼-酷兜",
-      url: "https://img10.360buyimg.com/imagetools/jfs/t1/86468/15/17422/44454/5e853f7eE82a0c442/9ca32a1f7ba979f5.png"
+      name: "京小贷",
+      url: "https://img14.360buyimg.com/imagetools/jfs/t1/207038/35/18852/91124/6221d1deE4b3a532c/27640c5cdcc2586c.jpg",
     },
     {
-      name: "京东锦礼-福礼",
-      url: "https://img10.360buyimg.com/imagetools/jfs/t1/86468/15/17422/44454/5e853f7eE82a0c442/9ca32a1f7ba979f5.png"
+      name: "数智安全",
+      url: "https://img10.360buyimg.com/imagetools/jfs/t1/2479/16/19293/99494/62be9f98E0cb5a395/30b582e0797be4bf.jpg",
     },
     {
-      name: "瓮福集团-瓮福农资",
-      url: "https://img11.360buyimg.com/imagetools/jfs/t1/101022/35/17227/69086/5e853f35E663bb682/615606881c235eb8.png"
+      name: "前晨汽车",
+      url: "https://img10.360buyimg.com/imagetools/jfs/t1/36735/5/16555/92046/62be9f10Ec45e2c8a/1c0ac9b9c3186033.jpg",
     },
     {
-      name: "京东物流-京源链",
-      url: "https://img13.360buyimg.com/imagetools/jfs/t1/107100/22/11141/125984/5e854b9eEf5e004f8/3305dc273f4a2491.png"
+      name: "京东冷链",
+      url: "https://img13.360buyimg.com/imagetools/jfs/t1/107100/22/11141/125984/5e854b9eEf5e004f8/3305dc273f4a2491.png",
     },
+    {
+      name: "京东到店",
+      url: "https://img11.360buyimg.com/imagetools/jfs/t1/207986/40/18829/52981/6221db5bEeefa46c0/2ba1aa1c94fc8059.jpg",
+    },
+    {
+      name: "全渠道门店管理",
+      url: "https://img10.360buyimg.com/imagetools/jfs/t1/118516/4/21871/52006/623d229bEa64483b5/ebee97b22af64641.jpg",
+    },
+  ],
+  H5: [
+    {
+      name: "京灵平台",
+      url: "https://img13.360buyimg.com/imagetools/jfs/t1/160735/28/32698/18115/6364db2bEfee03026/0906b41f9f138aae.png",
+    },
+    {
+      name: "点宽学院",
+      url: "https://img12.360buyimg.com/imagetools/jfs/t1/132733/28/28053/15981/6364db34E25c37141/0e2f9ce3061112c7.png",
+    },
+    {
+      name: "京ME-我的能量站",
+      url: "https://img14.360buyimg.com/imagetools/jfs/t1/149396/17/24236/11945/6221b812E3b5a3db7/2b342e0300921f7a.png"
+    },
+    {
+      name: "京东金融-保险服务",
+      url: "https://img13.360buyimg.com/imagetools/jfs/t1/217670/18/13901/13638/6221d377Ea0bbe00f/a7bfd22e376180ed.png"
+    },
+    {
+      name: "京采云",
+      url: "https://img12.360buyimg.com/imagetools/jfs/t1/96632/14/23086/13133/6226ea37Ed81f17c6/518836f0f4da1d46.png"
+    }
   ],
   移动端应用: [
     {
-      name: "建设银行-劳动者港湾",
-      url:
-        "https://img14.360buyimg.com/imagetools/jfs/t1/105533/38/17348/89840/5e85438fEe7cbc316/6c8b31c74b57f72d.png"
+      name: "京东慧采",
+      url: "https://img14.360buyimg.com/imagetools/jfs/t1/85127/11/29676/21323/6364dbcaE43808690/37562b64c2086927.png",
     },
     {
-      name: "京东PLUS会员",
-      url: "http://img12.360buyimg.com/img/jfs/t1/67481/15/565/28110/5cec9234E71c47244/dc4cf353fd96922e.png"
+      name: "建设银行-劳动者港湾",
+      url: "https://img11.360buyimg.com/imagetools/jfs/t1/69212/24/22802/13533/6364dad8E21b7a6e6/ee4407a90c036c03.png",
     },
     {
       name: "澳际-小希",
-      url:
-        "http://www.aoji.cn/static/images/index/qr-code.gif"
+      url: "https://img13.360buyimg.com/imagetools/jfs/t1/198866/9/28506/15078/6364db22E526fa6b2/96091b31b9337aa8.png",
     },
     {
-      name: "京东-慧采",
-      url:
-        "https://img12.360buyimg.com/imagetools/jfs/t1/107706/37/11250/21227/5e8544c6Ef0a5ebe5/8abc50023a56b5ae.png"
+      name: "京东B商城",
+      url: "https://img10.360buyimg.com/imagetools/jfs/t1/112371/6/26846/6580/6364e011E74eb85eb/df66195be24e5bb1.png"
     },
     {
-      name: "京东-丰客多", 
-      url:
-        "https://img10.360buyimg.com/imagetools/jfs/t1/102764/3/17238/19608/5e8545faE20d04854/dd8f64b260302278.png"
-    } 
-  ]
+      name: "京东企业购",
+      url: "https://img11.360buyimg.com/imagetools/jfs/t1/129240/33/27641/19803/6358d162Ebf4bf941/e644f1decabe0901.png"
+    }
+  ],
 };
 
-function chunkArray(ary) {
-  const tempAry = [];
-  const MAX_COLUMN = 6;
-  for (let i = 0; i < ary.length; i += MAX_COLUMN) {
-    tempAry.push(ary.slice(i, i + MAX_COLUMN));
-  }
-  if (tempAry[0].length < MAX_COLUMN) {
-    tempAry[0].push(...Array(MAX_COLUMN - tempAry[0].length).fill({}));
-  }
-  return tempAry;
-}
-
 function renderCases(cases) {
-  var navhtml = Object.keys(cases).map(key => {
-    return `<a href='#${key}'>${key}<span>(${cases[key].length})</span></a>`
-  }).join('')
-  navhtml = `<div class='grid_c1 app_nav'>${navhtml}</div>`
-
-  var casehtml =  Object.keys(cases)
-    .map(key => {
-      return `
-      <h2 id=${key}>${key}</h2>
-      <table
-        border="0"
-        cellpadding="0"
-        cellspacing="0"
-      >
-      <tbody>
-        ${renderTr(cases[key])}
-      </tbody>
-      </table>
-    `;
+  var casehtml = Object.keys(cases)
+    .map((key) => {
+      return `<div class="list">
+      <div class="list-title">${key}</div>
+      <div class="list-container">
+        ${renderItem(cases[key])}
+      </div>
+    </div>`;
     })
     .join("");
-  return navhtml + casehtml
+  return casehtml;
 }
 
-function renderTr(arr) {
-  return chunkArray(arr)
-    .map(a => {
-      return `<tr>
-        ${a
-          .map(o => {
-            return `<td align="center">
-                  <img class="${
-                    o.url ? "" : "hidden"
-                  }" height="80" width="80" src="${o.url}" />
-                  <p class="${o.url ? "" : "hidden"}">${o.name}</p>
-                </td>`;
-          })
-          .join("")}
-      </tr>
+function renderItem(arr) {
+  return arr
+    .map((a) => {
+      return `
+      <div class="item">
+        <img src="${a.url}" alt="">
+        <span class="name">${a.name}</span>
+      </div>
     `;
     })
     .join("");
