@@ -40,7 +40,7 @@ const userCases = {
     },
     {
       name: "京东金融-保险服务",
-      url: "https://img13.360buyimg.com/imagetools/jfs/t1/217670/18/13901/13638/6221d377Ea0bbe00f/a7bfd22e376180ed.png"
+      url: "https://img12.360buyimg.com/imagetools/jfs/t1/136184/15/30728/24091/6369b6d9E397bfe2e/42d30873f78215c5.png"
     },
     {
       name: "京东中采云",
